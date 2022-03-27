@@ -54,7 +54,7 @@ public class SecondHomework {
             System.out.println("true"); //високосный
         }
         else if (y != v && (y-v) != 4 ) {
-            System.out.println("false"); //не високосный
+            System.out.println("false"); 
         }
     }
 }
