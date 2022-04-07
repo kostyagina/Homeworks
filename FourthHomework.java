@@ -128,7 +128,7 @@ public class FourthHomework {
 
         return false;
     }
-   /* public static boolean isWinner(char symb) { // Проверка победы
+   /* public static boolean isWinner(char symb) { // Проверка победы - не запускается.
         for (int i = 0; i < SIZE; i++) {
             if (map[i][0] == symb && map[i][1] == symb && map[i][2] == symb)
                 map[0][i] == symb && map[1][i] == symb && map[2][i] == symb)
