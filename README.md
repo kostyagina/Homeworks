@@ -1,3 +1,3 @@
 # Homeworks
-My homeworks. Java. Level 1. 
-Homework to lesson 2 at 27-03-2022.
+
+Второй файл к Дз к уроку 5 называется Employee.java и лежит в этой же папке Homeworks.
